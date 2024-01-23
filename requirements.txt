@@ -1,5 +1,5 @@
 numpy==1.26.3
-#jax==0.4.23
+jax==0.4.23
 jaxlib==0.4.23
 flax==0.7.5
 opencv-python==4.9.0.80
@@ -15,3 +15,5 @@ ml_collections
 jaxcam==0.1.1
 chex==0.1.85
 ffmpeg
+orbax=0.1.9
+orbax-checkpoint=0.5.1
