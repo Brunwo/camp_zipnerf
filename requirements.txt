@@ -15,5 +15,5 @@ ml_collections
 jaxcam==0.1.1
 chex==0.1.85
 ffmpeg
-orbax=0.1.9
-orbax-checkpoint=0.5.1
+orbax==0.1.9
+orbax-checkpoint==0.5.1
